@@ -13,3 +13,5 @@ The goal of our project is to offer assistance to jeriatric nurses via Amazon Ec
 All of this is done through the use of an Amazon Echo (or Echo Dot) owned by a paitent. 
 
 The nurse can access data through the website and create reminders for the paitent or update their medicinal scheduele.
+
+View our [Devpost Submission](https://devpost.com/software/echo-care) for more information
